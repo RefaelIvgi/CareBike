@@ -46,7 +46,7 @@ delay(100);
 
 
 
-mySerial.print("AT+CMGS=\"+972502700229\"\r");
+mySerial.print("AT+CMGS=\"+972XXXXXXX\"\r"); // insert Phone number
 delay(100);
 
 
